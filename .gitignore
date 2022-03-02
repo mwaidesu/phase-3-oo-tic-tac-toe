@@ -1,5 +1,5 @@
 # Created by https://www.gitignore.io/api/node
-
+notes.md
 .DS_Store
 
 ### Node ###
